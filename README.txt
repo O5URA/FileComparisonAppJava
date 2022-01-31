@@ -1,3 +1,6 @@
+#File Comparison App
+This app utilises multi threading to compare the contents of the file and output a similarity score based.
+
 How to run the project
 
 -Prerequisites
